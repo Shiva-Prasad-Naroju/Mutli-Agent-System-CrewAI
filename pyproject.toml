@@ -1,0 +1,15 @@
+[project]
+name = "mutli-agent-system-crewai"
+version = "0.1.0"
+description = "Creating Multi Agent System wherein Planner, Writer and Editor agents are created."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai==0.28.8",
+    "crewai-tools==0.1.6",
+    "langchain-community==0.0.29",
+    "langchain-groq>=0.1.5",
+    "markdown>=3.8.2",
+    "python-dotenv>=1.0.0",
+    "setuptools>=80.9.0",
+]

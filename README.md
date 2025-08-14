@@ -42,6 +42,8 @@ The system saves outputs as Markdown files and converts them into **premium, res
 
 ## 📤 OUTPUT
 
+[Watch the LinkedIn video](https://www.linkedin.com/posts/shiva-prasad-naroju-4772a6184_ai-aiagents-multiagentsystem-activity-7361865034626420737-dRGG)
+
 This system produces **two files**: `.md` and `.html`.  
 
 ### HTML PREVIEW

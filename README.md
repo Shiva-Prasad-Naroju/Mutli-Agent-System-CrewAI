@@ -14,8 +14,6 @@ This project automates the blog creation process using multiple AI agents 🤖:
 
 The system saves outputs as Markdown files and converts them into **premium, responsive HTML pages** 🌐 styled similarly to professional publishing platforms.
 
----
-
 ## ⚡ FEATURES
 
 - AI-driven content planning and generation 🤖  
@@ -23,9 +21,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
 - Automatic Markdown and HTML output generation 📄➡️🌐  
 - SEO-aware content structure 🔍  
 - Responsive, professional HTML formatting with typography and styling 🎨  
-- Fully modular – add new agents or tasks effortlessly 🔧  
-
----
 
 ## 🛠 TECH STACK
 
@@ -34,8 +29,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
 - **CrewAI** for multi-agent orchestration 🧠  
 - **Markdown** for content handling 📝  
 - **dotenv** for environment variable management 🔑  
-
----
 
 ## 🔄 WORKFLOW
 
@@ -47,8 +40,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
    - Markdown file: `outputs/<topic>_YYYYMMDD_HHMMSS.md` 📄  
    - HTML file: `outputs/<topic>_YYYYMMDD_HHMMSS.html` 🌐  
 
----
-
 ## 📤 OUTPUT
 
 This system produces **two files**: `.md` and `.html`.  
@@ -59,9 +50,7 @@ This system produces **two files**: `.md` and `.html`.
 - Professional typography ✨  
 - Styled headings, paragraphs, blockquotes, and code 🖋️💻  
 
----
-
 ## 📬 CONTACT
 
-**By:** Shiva Prasad Naroju 🙋‍♂️  
+**By:** Shiva Prasad Naroju
 **Email:** shivanaroju26@gmail.com ✉️

@@ -4,8 +4,6 @@
 
 This project is leveraging **CrewAI agents** and **LangChain Groq LLMs** to autonomously plan, write, and edit high-quality blog posts on any topic. This project demonstrates a full multi-agent AI workflow, from content strategy to polished output, generating both **Markdown** and **professional HTML** formats.
 
----
-
 ## 🌟 Overview:
 
 This project automates the blog creation process using multiple AI agents:
@@ -17,8 +15,6 @@ This project automates the blog creation process using multiple AI agents:
 3. **Editor** – Refines the blog post for grammar, clarity, professional style, and readability.  
 
 The system saves outputs as Markdown files and converts them into **premium, responsive HTML pages** styled similarly to professional publishing platforms.
-
----
 
 ## ⚡ Features:
 
@@ -34,8 +30,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
 
 - Fully modular – add new agents or tasks effortlessly.
 
----
-
 ## 🛠 Tech Stack
 
 - **Python 3.11+**  
@@ -43,8 +37,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
 - **CrewAI** for multi-agent orchestration  
 - **Markdown** for content handling  
 - **dotenv** for environment variable management  
-
----
 
 ## Workflow:
 
@@ -60,8 +52,6 @@ The system saves outputs as Markdown files and converts them into **premium, res
 
 - HTML file: outputs/<topic>_YYYYMMDD_HHMMSS.html
 
----
-
 ## Output:
 
 This system outputs the two files, .md and .html.
@@ -73,8 +63,6 @@ This system outputs the two files, .md and .html.
 - Professional typography
 
 - Styled headings, paragraphs, blockquotes, and code
-
----
 
 ## Contact:
 
